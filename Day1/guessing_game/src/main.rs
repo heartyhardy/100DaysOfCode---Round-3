@@ -1,3 +1,8 @@
+/*
+    This is my take on the 2nd chapter in https://doc.rust-lang.org/book/
+    also check out https://doc.rust-lang.org/rust-by-example/
+*/
+
 use std::io;
 use rand::Rng;
 use std::cmp::Ordering;
